@@ -1,0 +1,2 @@
+# CodeInPlaceFinalProject
+I took this Stanford class from 8th grade to 9th grade COVID summer. No offense, it was pretty useless to me because I had experience in Python already and the concepts were too easy. I still enjoyed it kinda and I learned a little bit I guess. https://www.youtube.com/watch?v=B1lD2m5DvaA&ab_channel=AlanChen is my project, I didn't really spend too much time on it because I had other classes and tests coming up. Sorry Code in Place.  ;-; 8/13/2021 - ​Alan C
